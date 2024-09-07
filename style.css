@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.hero {
+    background: #4a90e2;
+    color: white;
+    padding: 50px 20px;
+}
+
+.about, .quotes, .gallery, .contact {
+    padding: 20px;
+}
+
+.quotes blockquote {
+    font-style: italic;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.gallery img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    padding: 10px;
+}
